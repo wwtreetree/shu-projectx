@@ -1,0 +1,15 @@
+torch
+torchvision
+tensorflow
+tqdm
+numpy
+pandas
+sklearn
+scipy
+matplotlib
+seaborn
+networkx
+psutil
+requests
+ipdb
+jupyter
